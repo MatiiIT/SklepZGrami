@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SklepZGramiBiblioteka", "SklepZGramiBiblioteka\SklepZGramiBiblioteka.csproj", "{0306FFB9-1486-4C42-9C60-C126461BE15C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SklepZGramiApp", "SklepZGramiApp\SklepZGramiApp.csproj", "{EA227B02-99B5-49BF-940A-63C263FF5BB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0306FFB9-1486-4C42-9C60-C126461BE15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0306FFB9-1486-4C42-9C60-C126461BE15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0306FFB9-1486-4C42-9C60-C126461BE15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0306FFB9-1486-4C42-9C60-C126461BE15C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA227B02-99B5-49BF-940A-63C263FF5BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA227B02-99B5-49BF-940A-63C263FF5BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA227B02-99B5-49BF-940A-63C263FF5BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA227B02-99B5-49BF-940A-63C263FF5BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9851AF0-D3F4-4AB3-9896-95E5741F82C0}
+	EndGlobalSection
+EndGlobal
